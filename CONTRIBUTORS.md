@@ -128,3 +128,8 @@ jonddon-branch
 - Bio: Flutter Developer
 - Github: [Amit Maurya](https://github.com/amitmaurya7374)
 
+### Name: [Riya Raj](https://github.com/riyaraj04)
+
+- Place: Patna,India
+- Bio: CS undergrad @KIIT, I love coding.
+- Github: [Riya Raja](https://github.com/riyaraj04)
