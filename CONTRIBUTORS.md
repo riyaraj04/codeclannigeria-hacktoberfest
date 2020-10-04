@@ -115,6 +115,9 @@ jonddon-branch
 #### Name: [Ademola John Olakunle](https://github.com/Crownedprinz)
 - Place: Lagos, Nigeria
 - Bio:  A backend developer that majors in C# and NodeJs?
+- GitHub: [Crownedprinz](https://github.com/Crownedprinz)#### Name: [Ademola John Olakunle](https://github.com/Crownedprinz)
+- Place: Lagos, Nigeria
+- Bio:  A backend developer that majors in C# and NodeJs?
 - GitHub: [Crownedprinz](https://github.com/Crownedprinz)
 
 #### Name: [Olawale Esan Elijah](https://github.com/elijahwale)
@@ -127,4 +130,9 @@ jonddon-branch
 - Place: Faridabad, India
 - Bio: Flutter Developer
 - Github: [Amit Maurya](https://github.com/amitmaurya7374)
+
+#### Name: [Riya Raj](https://github.com/riyaraj04)
+- Place: Patna, India
+- Bio: CS Undergrad @KIIT, I Love Coding.
+- Github: [Riya Raj](https://github.com/riyaraj04)
 
